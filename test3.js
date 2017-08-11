@@ -7,7 +7,6 @@ function find(collection, num) {
   }
   return null ;
 }
-
 function findnumber(colletcion
 ) {
   let result ;
